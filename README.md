@@ -1,8 +1,10 @@
-# Knowledge Worker
+# Knowledge Worker: 지식근로자
+
+Wiki: [Knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)
 
 > The most valuable asset of a 21st-century institution, whether business or non-business, will be its knowledge workers and their productivity.
 
-[Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)
+by [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)
 
 ## References
 
